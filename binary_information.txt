@@ -1,0 +1,4 @@
+link to binary:
+\\ger.corp.intel.com\ec\proj\DPGEC\iag\mwg\COMP_Builds\WFFW_P4\WFFW02408
+P4 changelist identifier:
+	WCS_WIFI_FW/CoreCycle1_stab...@11179
