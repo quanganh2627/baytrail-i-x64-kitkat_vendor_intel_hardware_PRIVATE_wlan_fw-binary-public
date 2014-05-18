@@ -1,13 +1,13 @@
 # STM external FW info
 
 # link to STM FW build:
-FW_LOCATION=//amr.corp.intel.com/ec/proj/DPGEC/iag/mwg/COMP_Builds/WFFW_P4/WFFW03406/Layout/WFFW03406G.zip
+FW_LOCATION=//amr.corp.intel.com/ec/proj/DPGEC/iag/mwg/COMP_Builds/WFFW_P4/WFFW03414/Layout/WFFW03414G.zip
 
 # P4 changelist id(unique id):
-FW_CHANGE_LIST=23241
+FW_CHANGE_LIST=23321
 
 # STM build tag(Wibars Tracker):
-FW_TIC=WFFW03406
+FW_TIC=WFFW03414
 
 # P4 DEPOT (repository):
 FW_DEPOT=WCS_WIFI_FW
@@ -25,13 +25,13 @@ FW_SUBMITTER_NAME=scmbuild
 FW_BUILD_NAME=fw-binary-push-CoreCycle1_stab
 
 # jenkins project job number
-FW_PARAMETER=59
+FW_PARAMETER=60
 
 # FW job full URL
-FW_BUILD_URL=http://git-mwg.jer.intel.com/jenkins/job/fw-binary-push-CoreCycle1_stab/59/
+FW_BUILD_URL=http://git-mwg.jer.intel.com/jenkins/job/fw-binary-push-CoreCycle1_stab/60/
 
 # jenkins FW job name
 FW_JOB_NAME=fw-binary-push-CoreCycle1_stab
 
 # windows style link to firmware build:
-FW_LOCATION_WIN=\\\\amr.corp.intel.com\\ec\\proj\\DPGEC\\iag\\mwg\\COMP_Builds\\WFFW_P4\\WFFW03406\\Layout\\WFFW03406G.zip
+FW_LOCATION_WIN=\\\\amr.corp.intel.com\\ec\\proj\\DPGEC\\iag\\mwg\\COMP_Builds\\WFFW_P4\\WFFW03414\\Layout\\WFFW03414G.zip
