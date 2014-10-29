@@ -8,7 +8,6 @@ IWL_PAPD_DB_FILES := $(notdir $(shell find $(LOCAL_IWL_FW_DIR)/papd_db -type f))
 #copy the nvmData file and all the ucode files to $(TARGET_OUT_WLAN_FW)
 # copying nvm to firmware is temporary
 PRODUCT_COPY_FILES := \
-	$(LOCAL_IWL_FW_DIR)/nvmData-a620:$(TARGET_OUT_WLAN_FW)/nvmData \
 	$(LOCAL_IWL_FW_DIR)/nvmData-a620:$(TARGET_OUT_ETC_WIFI)/nvmDataDefault \
 	$(LOCAL_IWL_FW_DIR)/fw_info.txt:$(TARGET_OUT_WLAN_FW)/fw_info.txt \
 	$(LOCAL_IWL_FW_DIR)/iwl-dbg-cfg.ini:$(TARGET_OUT_WLAN_FW)/iwl-dbg-cfg.ini \
