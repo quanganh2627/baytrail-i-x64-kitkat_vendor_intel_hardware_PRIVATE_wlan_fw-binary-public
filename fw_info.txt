@@ -25,7 +25,7 @@ FW_SUBMITTER_NAME=scmbuild
 FW_BUILD_NAME=fw-binary-push-CoreCycle1_stab
 
 # jenkins project job number
-FW_PARAMETER=163
+FW_PARAMETER=166
 
 # FW job full URL
 FW_BUILD_URL=REMOVED
