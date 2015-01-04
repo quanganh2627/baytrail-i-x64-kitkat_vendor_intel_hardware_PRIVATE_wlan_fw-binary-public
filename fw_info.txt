@@ -4,10 +4,10 @@
 FW_LOCATION=REMOVED
 
 # P4 changelist id(unique id):
-FW_CHANGE_LIST=99311
+FW_CHANGE_LIST=101731
 
 # STM build tag(Wibars Tracker):
-FW_TIC=WFFW09510
+FW_TIC=WFFW09690
 
 # P4 DEPOT (repository):
 FW_DEPOT=WCS_WIFI_FW
@@ -25,7 +25,7 @@ FW_SUBMITTER_NAME=scmbuild
 FW_BUILD_NAME=fw-binary-push-CoreCycle1_stab
 
 # jenkins project job number
-FW_PARAMETER=179
+FW_PARAMETER=180
 
 # FW job full URL
 FW_BUILD_URL=REMOVED
