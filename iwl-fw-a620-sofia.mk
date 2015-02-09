@@ -11,6 +11,7 @@ PRODUCT_COPY_FILES := \
 	$(LOCAL_IWL_FW_DIR)/nvmData-a620:$(TARGET_OUT_ETC_WIFI)/nvmDataDefault \
 	$(LOCAL_IWL_FW_DIR)/fw_info.txt:$(TARGET_OUT_WLAN_FW)/fw_info.txt \
 	$(LOCAL_IWL_FW_DIR)/iwl-dbg-cfg.ini:$(TARGET_OUT_WLAN_FW)/iwl-dbg-cfg.ini \
+	$(LOCAL_IWL_FW_DIR)/softap-dummy.ucode:$(TARGET_OUT_WLAN_FW)/iwlwifi-softap-dummy.ucode \
 	$(foreach ucode,$(IWL_UCODE_FILES),\
 		$(LOCAL_IWL_FW_DIR)/$(ucode):$(TARGET_OUT_WLAN_FW)/$(ucode)) \
 	$(foreach file,$(IWL_PAPD_DB_FILES),\
